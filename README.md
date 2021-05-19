@@ -1,5 +1,8 @@
 # Secure Your PiHole: DNS Blackhole in a Cloud Service
 
+In this course, we take a look at DNS Blackholing to prevent drive-by exploitation of computer systems and get back a bit of our bandwidth. 
+Using the PiHole project and a droplet from Digital Ocean, we can quickly and effectively block up to 50% of unnecessary traffic on our networks! 
+
 ## Install WinTerminal
 
 - Open the Microsoft Store
